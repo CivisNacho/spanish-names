@@ -3,4 +3,4 @@ Lista de nombres más comunes en España, hombre/mujer extraída del Insituto Na
 
 Esta lista se puede utilizar para complementar diccionarios de ataque de fuerza bruta, contiene varios ficheros por categoría, con todas las letras en mayúsculas (ANTONIO JOSE), con todas en minúsculas (antonio jose), y con la primera en mayúsculas (Antonio Jose).
 
-No se incluyen tiles.
+No se incluyen tildes.
